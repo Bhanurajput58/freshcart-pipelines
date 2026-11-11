@@ -19,3 +19,9 @@ This project demonstrates:
 - Mage
 - RabbitMQ
 - Pytest
+
+## CI Testing
+
+GitHub Actions CI workflow is configured
+to automatically run pytest on every push
+to the main branch.
