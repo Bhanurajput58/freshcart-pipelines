@@ -1,8 +1,5 @@
-pandas
+
 numpy
+pandas
 scikit-learn
 pytest
-mage-ai
-pika
-snowflake-connector-python
-python-dotenv
